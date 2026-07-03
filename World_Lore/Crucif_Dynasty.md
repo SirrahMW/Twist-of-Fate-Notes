@@ -1,0 +1,16 @@
+# **Crucif Dynasty**
+`The Verdant Empire`
+
+---
+> “Gul de marrq dan crucif harmorrh” -> "The only thing larger than an elf’s tree is its ego"
+> 
+>  - Orcish saying
+---
+
+The Crucif Dynasty is the longest lived state on Eldetia, claiming to have records that go back to a time before it was an island. Its true origins are lost to history, but legends will tell a story of a great warrior who fought with gods and conquered nations before settling down and raising the Verdant Empire. Many families have risen and fallen who all claim lineage to this old warrior, and its tomb remains a place of pilgrimage for those who live within forests and hills of this south western state.
+
+Currently ruled by the powerful elven Crucif family for hundreds of years, it has proven itself capable of withstanding the creeping moldering of time. While in time gone by the Dynasty found frequent reason to wage war on its neighbors, the current Twin Dynasts have ushered in a tenuous era of peace. This can be largely attributed to the Twins opening up the Ancestral Grove to harvest from. This large expanse of forest contained the trees said to have grown since the time Eldetia was part of some distant mainland. The trees are revered for their strong wood capable of holding numerous enchantments and powerful magics. In the past anything made with their wood came only from branches that had fallen naturally. For a tree to be felled it was considered a rare and spectacular thing. Historical instances included the building of the great gates between the Dynasty and the Amaranth Vale, the Crucif Pleasure Barge, and arming the Teikoken Guard, the Dynasts personal protectors. Opening the Grove has allowed other states to buy them with favors and alliances however, and to own anything made with Ancestral wood is seen as a shrine to their achievements.
+
+Aside from the ancestral wood, they also trade in the wood that is felled from the vast forest that occupies the entirety of their land. They pride themselves on cultivating various types of tree that can be utilized in any number of useful practices, and while abundant in their land wood is scarce elsewhere. This gives them a useful bargaining chip to acquire the various resources they need like food from the Vale, magical fuel and technology from Olbaag, and refined metals from the Plata.
+
+The people of the Crucif Dynasty take great pride in their organizational skills. Military service before the Twins reign was mandatory, and while it is no longer a law, it is still seen as culturally expected, particularly among the elves. Most of the towns follow the same general layout of an army camp. The people may be seen as hard and efficient, valuing cleanliness, strict adherence to authority, and filling the role you have in family, culture, and society. This mindset bleeds into their recreation as well, being determined learners of sports, arts, and crafts. They tend to devote their time and energy fully to whatever hobbies they find interest in, whether it be their occupation or simply what they enjoy doing. They are a people who love competition, when it is culturally acceptable.

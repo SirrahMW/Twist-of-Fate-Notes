@@ -1,0 +1,20 @@
+# **Eldingskaar**
+Giant for: `Stormsteel`
+
+---
+>To “General” Halmdier Jotunhildr,
+>"We, the Crucif Dynasty, do not accept your request of induction into statehood. Your people are a vile and perfidious flock of children, prone to inimical capriciousness and containing a surfeit of bellicosity. Your insouciant attitude towards pecuniary restitution for your frequent sorties, proven by your perfunctory recompense, leaves this party inveterate of mind on all matters concerning your desired sovereignty. You may expect further remonstrance until you excoriate the mephitic parasites who invade our lands and expiate your ineluctable failures through fiduciary recompense. Until such terms are met, with celerity, our puissant authority shall remain inimical to your cause. But, at the risk of abandoning pauciloquence, we shall leave all that said and await your response. After you procure a dictionary, of course. "
+>
+> - Dynastic Scrivener, Vaelin Heike, on behalf of Dynast Aresis Crucif; dated June 4th, 782
+> - Currently hanging in the Jarls office, below Eldingskaars title of statehood; dated June 17th, 782
+---
+
+Eldingskaar is the newest addition to the states of Eldetia, residing in the eponymous Eldingskaar mountains at the northwestern corner of the continent. Before its rise to statehood the land was largely devoid of primary settlements, and was instead simply a collection of thieves, bandits, and criminals using the range to hide safely from society. Multiple military campaigns were undertaken by the states to attempt to purge the mountains of the unlawful menace but few were successful and none solved the problem. None did so more than Olbaag, who were perhaps most frequently visited by the mountain men.
+
+A few hundred years ago, Jarl Halmdier Jotunhildr found a large vein of salt in the mountain, and realized he could mine this salt and make far more money than conducting the raids he was more known for. He set about the kordean task of gathering the other groups of bandits in the mountains and set them up under his rule, using his army and power to subjugate them in a way no previous ruler had. From there he set up his mines and created a powerful business of salt trading with other states. After getting large enough, he decided to vie for statehood, knowing that as an officially sanctioned nation he would have more sway over how much he could make and wanting to start getting the respect he believed he and his people deserved. After decades of politicking however, he was unsuccessful.
+
+Fortune changed for the Jarl when found vibrant veins of gold, crossing his salt mines. He mined at a frantic pace and every state looked on with envy at the hoard he began amassing. He offered to open up his gold trade to the other states, but only if they would recognize his sovereignty. The states quickly turned their planning to invasion, but memories of their frequent losses due to the difficulty of traversing the mountains meaningfully left them disheartened at such notions. Even Olbaag, with their centuries of resentment, reluctantly conceded that access to the valuable gold, so necessary in their many magical implementations, would be worth setting aside their differences on this matter. And so in the end the states relented, officially recognizing Eldingskaars statehood.
+
+Aside from salt and gold, the state is also home to the Stormsteel Crags, a natural deposit of stormsteel ore. This ore makes for potent weaponry and acts as an impressive conduit of natural and magical power. Mining it is incredibly difficult and working with it can prove disastrous to untrained smiths, as even stable stormsteel can be chaotic and unwieldy.
+
+The people of Eldingskaar tend to live hard lives in the mountains. While true cities have now been formed they tend to be small and disconnected. People find what pockets of arable land they can and grow crops and raise livestock, or else they work in the mines in the capital city of Vardunlief. They find themselves in frequent clashes with dangerous wildlife and the pyroclastic expulsions of the volcanoes that make the land they live in arable at all.
