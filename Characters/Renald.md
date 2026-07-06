@@ -1,24 +1,237 @@
 ---
-tags: [ playercharacter, lore, worldbuilding ]
-title: Renald Freund
-image:
-  [
-    [ Renald-Clean.png, Humanity ],
-    [ Renald-Unclean.png, Reality ]
-  ]
-infobox: Character
-Name: Ren
-Race: '[[The Arisen | Arisen]] (Construct)'
-Class: Warlock 3 | Parasitic Patron
-Alignment: Chaotic Good
-Age: 50-60 (Died 21)
-Height: 6'
-Birthplace: Polvora (Canyon Town), Colina
-Occupation: Miner
+tags: [ player, biography, eldetia ]
+title: |
+  <!-- HEADER -->
+  <div style="
+    font-size: 2rem;
+    letter-spacing: 0.15rem;
+    color: var(--color-text-heading);
+    text-align: center;
+    font-weight: bold;
+    ">
+    <span style=" font-size: 2rem; vertical-align: middle; ">༺ </span><span style=" vertical-align: middle;">Renald Freund</span><span style="font-size :2rem; vertical-align: middle;"> ༻</span>
+  </div>
+subtitle: |
+  <!-- SUBHEADER -->
+  <div style="
+    font-size: 1.5rem;
+    letter-spacing: 0.15rem;
+    color: var(--color-text-heading);
+    text-align: center;
+    font-weight: bold;
+    ">
+   <span style=" font-size: 2rem; vertical-align: middle; ">༺</span><span style=" vertical-align: middle;"> Walking Man </span><span style="font-size :2rem; vertical-align: middle;">༻</span>
+  </div>
+image: [[player_renald_clean.png],[player_renald_unclean.png]]
+layout:
+  - type: columns
+    keys: [ tagtable ]
+  - type: columns
+    keys: [ table ]
+  - type: separator
+    above: [ completion, tagtable, table ]
+tagtable: |
+  <!-- TAGS DADDY -->
+  <div style="
+    overflow: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.8rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.15rem;
+    text-align: center;
+    margin: 0 1rem;
+    ">
+    <!-- TAG CHILD -->
+  <div style="
+      margin: 0.5rem auto;
+    ">
+    [Player]
+  </div>
+  <!-- TAG CHILD -->
+  <div style="
+      margin: 0.5rem auto;
+    ">
+    [Biography]
+  </div>
+  <!-- TAG CHILD -->
+  <div style="
+      margin: 0.5rem auto;
+    ">
+    [Eldetia]
+  </div>
+
+  </div>
+table: |
+  <!-- CATEGORY DADDY -->
+  <div style="
+    overflow: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.15rem;
+    text-align: center;
+    ">
+    <!-- CATEGORY CHILD -->
+  <div style="
+    border-top: 1px solid var(--color-border-primary);
+    color: var(--color-text-heading);
+    letter-spacing: 0.15rem;
+    margin: 0.8rem auto;
+  ">
+    Race
+    <p style="
+      color: var(--color-text-primary);
+    ">
+      Arisen
+    </p>
+  </div>
+  <!-- CATEGORY CHILD -->
+  <div style="
+    border-top: 1px solid var(--color-border-primary);
+    color: var(--color-text-heading);
+    letter-spacing: 0.15rem;
+    margin: 0.8rem auto;
+  ">
+    Culture
+    <p style="
+      color: var(--color-text-primary);
+    ">
+     Colina
+    </p>
+  </div>
+
+  </div>
+
+  <!-- CATEGORY DADDY -->
+  <div style="
+    overflow: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.15rem;
+    text-align: center;
+    ">
+    <!-- CATEGORY CHILD -->
+  <div style="
+    border-top: 1px solid var(--color-border-primary);
+    color: var(--color-text-heading);
+    letter-spacing: 0.15rem;
+    margin: 0.8rem auto;
+  ">
+    Background
+    <p style="
+      color: var(--color-text-primary);
+    ">
+     Pox-Touched
+    </p>
+  </div>
+  <!-- CATEGORY CHILD -->
+  <div style="
+    border-top: 1px solid var(--color-border-primary);
+    color: var(--color-text-heading);
+    letter-spacing: 0.15rem;
+    margin: 0.8rem auto;
+  ">
+    Occupation
+    <p style="
+      color: var(--color-text-primary);
+    ">
+      Miner
+    </p>
+  </div>
+
+  </div>
+
+  <!-- CATEGORY DADDY -->
+  <div style="
+    overflow: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.15rem;
+    text-align: center;
+    ">
+    <!-- CATEGORY CHILD -->
+  <div style="
+    border-top: 1px solid var(--color-border-primary);
+    color: var(--color-text-heading);
+    letter-spacing: 0.15rem;
+    margin: 0.8rem auto;
+  ">
+    Religion
+    <p style="
+      color: var(--color-text-primary);
+    ">
+      N/A
+    </p>
+  </div>
+  <!-- CATEGORY CHILD -->
+  <div style="
+    border-top: 1px solid var(--color-border-primary);
+    color: var(--color-text-heading);
+    letter-spacing: 0.15rem;
+    margin: 0.8rem auto;
+  ">
+    Allegiance
+    <p style="
+      color: var(--color-text-primary);
+    ">
+      N/A
+    </p>
+  </div>
+
+  </div>
+
+  <!-- CATEGORY DADDY -->
+  <div style="
+    overflow: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.15rem;
+    text-align: center;
+    ">
+    <!-- CATEGORY CHILD -->
+  <div style="
+    border-top: 1px solid var(--color-border-primary);
+    color: var(--color-text-heading);
+    letter-spacing: 0.15rem;
+    margin: 0.8rem auto;
+  ">
+    Age
+    <p style="
+      color: var(--color-text-primary);
+    ">
+      50-60
+    </p>
+  </div>
+  <!-- CATEGORY CHILD -->
+  <div style="
+    border-top: 1px solid var(--color-border-primary);
+    color: var(--color-text-heading);
+    letter-spacing: 0.15rem;
+    margin: 0.8rem auto;
+  ">
+    Status
+    <p style="
+      color: var(--color-text-primary);
+    ">
+      Undead
+    </p>
+  </div>
+
+  </div>
+  
+completion: in-progress
 ---
 # Biography
 ## Early Life
-Renald was born to **Arno** and **Nadine Freund** in **Polvora**, the capital city of **Colina**, during the hottest day of the hottest month. His name has no particular meaning but was simply given as a namesake to honor a deceased friend of his father's. Growing up in an impoverished mining town, **Renald**'s family struggled to make ends meet.
+Renald was born to **Arno** and **Nadine Freund** in **Polvara**, the capital city of **Colina**, during the hottest day of the hottest month. His name has no particular meaning but was simply given as a namesake to honor a deceased friend of his father's. Growing up in an impoverished mining town, **Renald**'s family struggled to make ends meet.
 
 **Renald**'s relationship with his father, **Arno**, was built on a foundation of curiosity and inquiry. Despite **Arno**'s busy schedule as a miner, **Renald** would eagerly await his return home from work, bombarding him with questions about various subjects, including herbs, history, and even girls. **Arno**, though often unsure of the answers himself, encouraged **Renald**'s thirst for knowledge by occasionally purchasing books that addressed specific topics. This exchange fostered a strong bond between them, as they would engage in discussions, with **Arno** guiding **Renald** towards finding his own solutions or providing him with resources to explore further.
 
@@ -92,3 +305,5 @@ Sixteen tons, Nine pound hammer,
 If I die: `I feel warm. Don't wake me up this time. Let me finally sleep.`
 
 NEED BACKGROUND MUSIC
+
+"By sweat and stone" (Expletive)

@@ -2,7 +2,7 @@
 title: Amaranth Vale
 subtitle: "'Valley of Grain'"
 image: [
-  [ amaranth_vale.png ]
+  [ loc_amaranth_vale.png ]
 ]
 
 ---
