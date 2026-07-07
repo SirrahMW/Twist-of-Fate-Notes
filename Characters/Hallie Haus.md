@@ -1,1 +1,0 @@
-Reminds me of someone I once knew. She's rather snooty, quite possibly even bitchy. But I know that those with the hardest exterior sometimes have the tenderest hearts.

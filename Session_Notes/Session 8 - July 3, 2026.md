@@ -13,10 +13,9 @@ tags: [notes]
 - Anxious and angry people in the mayor's place
 - A man who is head of the most powerful bank in Colina
 - Lead necro-artificer named Karstaroff (Bastard)
-- Ringleader is named "Ardaland Gri  like a circus ringleader and a mask that fully covers them.
+- Ringleader is named "Ardaland Griseous" - well loved in the Colina - dressed like a circus ringleader and a mask that fully covers them.
 
-# Placesseous" - asweasdll loved in tssdashe Colina (Fuck this guy)
-- Strange humanoid sitting on the couch dressed
+# Places
 - The city mayoral house
 
 # Note

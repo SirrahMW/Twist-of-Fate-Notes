@@ -7,6 +7,7 @@ image: [
 
 ---
 
+---
 "No land in Eldetia is ugly. Every region has an unearthly beauty to it that almost seems at odds with its hostile landscape. Though I would posit that the perilous nature of our island home is what imbues it with such allurement. It is the raw nature exposed to us that cannot be seen without severe geographical turmoil. Our Mother gives us powerful spectacles of magic and natural processes blended in dramatic displays. The Crystal Coves of Olbaag, the Blackfire Canyons of the Plata, the Stormsteel Crags of Eldingskaar; all of these natural wonders could only exist with the violent parturition of a land locked in the perpetual chaos of change. It is therefore in exquisite contrast that the Amaranth Vale should exhibit such splendor despite its relative safety. That our Mother should give us a place safe to find respite and grow enough food to make fed the whole of Her. And so of course we, Her ungrateful children, find more reason to ravage her lands there than anywhere else."
 
     Pontifications of Dynast Aresis Crucif Vol. II, pg: 27

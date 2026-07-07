@@ -9,7 +9,7 @@ title: |
     text-align: center;
     font-weight: bold;
     ">
-    <span style=" font-size: 2rem; vertical-align: middle; ">༺ </span><span style=" vertical-align: middle;">Renald Freund</span><span style="font-size :2rem; vertical-align: middle;"> ༻</span>
+    <span style=" font-size: 2rem; vertical-align: middle; ">༺</span><span style=" vertical-align: middle;">Renald</span><span style="font-size :2rem; vertical-align: middle;">༻</span>
   </div>
 subtitle: |
   <!-- SUBHEADER -->
@@ -20,7 +20,7 @@ subtitle: |
     text-align: center;
     font-weight: bold;
     ">
-   <span style=" font-size: 2rem; vertical-align: middle; ">༺</span><span style=" vertical-align: middle;"> Walking Man </span><span style="font-size :2rem; vertical-align: middle;">༻</span>
+   <span style=" font-size: 2rem; vertical-align: middle; ">❨</span><span style=" vertical-align: middle;">The First</span><span style="font-size :2rem; vertical-align: middle;">❩</span>
   </div>
 image: [[player_renald_clean.png],[player_renald_unclean.png]]
 layout:
@@ -145,45 +145,6 @@ table: |
 
   </div>
 
-  <!-- CATEGORY DADDY -->
-  <div style="
-    overflow: auto;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0.8rem;
-    font-size: 0.8rem;
-    letter-spacing: 0.15rem;
-    text-align: center;
-    ">
-    <!-- CATEGORY CHILD -->
-  <div style="
-    border-top: 1px solid var(--color-border-primary);
-    color: var(--color-text-heading);
-    letter-spacing: 0.15rem;
-    margin: 0.8rem auto;
-  ">
-    Religion
-    <p style="
-      color: var(--color-text-primary);
-    ">
-      N/A
-    </p>
-  </div>
-  <!-- CATEGORY CHILD -->
-  <div style="
-    border-top: 1px solid var(--color-border-primary);
-    color: var(--color-text-heading);
-    letter-spacing: 0.15rem;
-    margin: 0.8rem auto;
-  ">
-    Allegiance
-    <p style="
-      color: var(--color-text-primary);
-    ">
-      N/A
-    </p>
-  </div>
-
   </div>
 
   <!-- CATEGORY DADDY -->
@@ -231,11 +192,12 @@ completion: in-progress
 ---
 # Biography
 ## Early Life
-Renald was born to **Arno** and **Nadine Freund** in **Polvara**, the capital city of **Colina**, during the hottest day of the hottest month. His name has no particular meaning but was simply given as a namesake to honor a deceased friend of his father's. Growing up in an impoverished mining town, **Renald**'s family struggled to make ends meet.
+Renald was born to **[[Arno]]** and **[[Nadine]] Freund** in **Polvara**, the capital city of **Colina**, during the hottest day of the hottest month. His name has no particular meaning but was simply given as a namesake to honor a deceased friend of his father's. Growing up in an impoverished mining town, **Renald**'s family struggled to make ends meet.
 
 **Renald**'s relationship with his father, **Arno**, was built on a foundation of curiosity and inquiry. Despite **Arno**'s busy schedule as a miner, **Renald** would eagerly await his return home from work, bombarding him with questions about various subjects, including herbs, history, and even girls. **Arno**, though often unsure of the answers himself, encouraged **Renald**'s thirst for knowledge by occasionally purchasing books that addressed specific topics. This exchange fostered a strong bond between them, as they would engage in discussions, with **Arno** guiding **Renald** towards finding his own solutions or providing him with resources to explore further.
 
 Renald's mother, **Nadine**, was a kind and compassionate woman who instilled in him a deep appreciation for the natural world. Having grown up on a ranch in the **Plata**, she possessed basic knowledge of medicine, which she applied by stitching wounds and delivering babies without expectation of payment. Her selfless nature earned her the respect and gratitude of their community, as she provided essential services to those in need. **Nadine**'s influence had a profound impact on **Renald**, shaping his values and teaching him the importance of caring for others and the land they inhabited.
+
 
 Thus these two commoners were able to raise a kind and caring young boy even from the less-than-ideal quality of life they endured. Renald had many friends growing up, and was liked by most. That didn't save him from being seen as a street urchin by passing-through merchants or guild traders, sometimes they would even kick at him and shoo as they pushed passed him in the street. This never once hurt his positive outlook on life though, as his mother or father always had a way of talking him through it. 
 
@@ -290,6 +252,7 @@ It's difficult to get used to moving around without being able to feel much of a
 It's been hard for the 3 or more decades he has been in-between, between death and living. He has to remind himself daily, almost like a prayer, of the value each life holds. Each one is priceless, a treasure to be protected and cherished, unlike his own. From a young age, his mother always taught him to respect others and the land itself, and he was not going to let himself disappoint her, even if she would never know. 
 
 # The Adventure Unfolds
+Our adventurers meet after a strange man merely titled: The Potter
 
 # Notes
 *ASK SAM ABOUT OFFHAND BLIND/GRAPPLE MECHANIC* `Will talk about it later`
@@ -300,9 +263,7 @@ DID I MEET OR KNOW ANYONE IMPORTANT DURING MY "EMPLOYMENT"?
 DO I REMEMBER PEOPLE OR EVENTS FROM BEFORE?
 <u>Yes. Vividly, not the same as all Arisen. Your memory stuck hard, where some others are almost mindless drones after awakening.</u>
 
-Sixteen tons, Nine pound hammer,
-
-If I die: `I feel warm. Don't wake me up this time. Let me finally sleep.`
+If I die: `I'm so tired. Tired? Just... don't wake me up this time.`
 
 NEED BACKGROUND MUSIC
 

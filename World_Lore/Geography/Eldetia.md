@@ -1,6 +1,7 @@
-# **Eldetia**
-Draconic for: `The Gods Afeared`
-
+---
+image: map_eldetia.png
+subtitle: Draconic ↝ `The Gods Afeared`
+---
 ---
 >"Many joke that the gods are scared of Eldetia. We even have legends that say years ago a mortal wielded the powers of a god and banished some of them. Another says that a group of brothers once held a vendetta against a god and chased it down and killed it. These make for fun stories and they empower our people, that they should have the strength to outlast the gods. I believe it is more likely, however, that if the gods do truly fear this place it is simply due to the volatile nature of the land itself. Whatever the truth, it is well known that the deities hold no significant power anywhere in Eldetia."
 >

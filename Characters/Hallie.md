@@ -1,5 +1,5 @@
 ---
-tags: [ character, biography, eldetia ]
+tags: [ player, notes, eldetia ]
 title: |
   <!-- HEADER -->
   <div style="
@@ -9,7 +9,7 @@ title: |
     text-align: center;
     font-weight: bold;
     ">
-    <span style=" font-size: 2rem; vertical-align: middle; ">༺</span><span style=" vertical-align: middle;">Arno</span><span style="font-size :2rem; vertical-align: middle;">༻</span>
+    <span style=" font-size: 2rem; vertical-align: middle; ">༺</span><span style=" vertical-align: middle;">Hallie</span><span style="font-size :2rem; vertical-align: middle;">༻</span>
   </div>
 subtitle: |
   <!-- SUBHEADER -->
@@ -20,11 +20,10 @@ subtitle: |
     text-align: center;
     font-weight: bold;
     ">
-   <span style=" font-size: 2rem; vertical-align: middle; ">༺</span><span style=" vertical-align: middle;">Lost</span><span style="font-size :2rem; vertical-align: middle;">༻</span>
+   <span style=" font-size: 2rem; vertical-align: middle; ">༺</span><span style=" vertical-align: middle;">Disappeared</span><span style="font-size :2rem; vertical-align: middle;">༻</span>
   </div>
 image: [
-  [lore_photo_arno.png],
-  [lore_photo_nadine_and_arno.png]
+  [player_hallie.png],
 ]
 layout:
   - type: columns
@@ -49,13 +48,13 @@ tagtable: |
   <div style="
       margin: 0.5rem auto;
     ">
-    [Character]
+    [Player]
   </div>
   <!-- TAG CHILD -->
   <div style="
       margin: 0.5rem auto;
     ">
-    [Biography]
+    [Notes]
   </div>
   <!-- TAG CHILD -->
   <div style="
@@ -101,7 +100,7 @@ table: |
     <p style="
       color: var(--color-text-primary);
     ">
-     Colina
+     Crucif
     </p>
   </div>
 
@@ -128,7 +127,7 @@ table: |
     <p style="
       color: var(--color-text-primary);
     ">
-     Pox-Touched
+     Taken
     </p>
   </div>
   <!-- CATEGORY CHILD -->
@@ -142,7 +141,7 @@ table: |
     <p style="
       color: var(--color-text-primary);
     ">
-      Miner
+      Arborist
     </p>
   </div>
 
@@ -169,7 +168,7 @@ table: |
     <p style="
       color: var(--color-text-primary);
     ">
-      38
+      18-20
     </p>
   </div>
   <!-- CATEGORY CHILD -->
@@ -183,7 +182,7 @@ table: |
     <p style="
       color: var(--color-text-primary);
     ">
-      Deceased
+      Serving Cunt
     </p>
   </div>
 
@@ -191,16 +190,11 @@ table: |
   
 completion: in-progress
 ---
+# Notes
+Reminds me of someone I once knew. She's rather snooty, quite possibly even bitchy. But I know that those with the hardest exterior sometimes have the tenderest hearts.
 
-# Biography
-Arno was born and raised in the Colina. Though, from a young age he never wanted to stay in the Colina. He desired to learn herbology and become an Apothecary, making enough money to travel and trade. He thought that there would be a lot to be learned elsewhere outside the Colina, so it is not surprise that he frequented the Swamp to the east. 
+The Haus always wins
 
-That is, until he met a young woman on his way to the Swamp. Her name was Nadine, and she practically swept him off his feet. Her intelligence was only matched by her beauty and he doubled his efforts to establish himself as a reknowned Apothecary to provide for her. 
-
-It was only after she gave birth to a baby boy, who they named [[Renald]], that he decided to forget about his dreams and take up work in the mines to pay for their food and shelter. Early on, the pay wasn't good, but he was able to work his way through lower paying mines all the way up to one of the "better" ones. Though higher pay in the mines meant higher risk. 
-
-Though he couldn't persue his dreams of making his living as an Apothecary, he wanted the best for his son, so when [[Renald]] showed an interest in herbs, he began teaching him what he knew as he could. He also would sometimes spend a portion of their savings on books, scrolls, and charts that could answer Ren's endless font of questions.
-
-As Ren got older, he began asking more and more questions that Arno couldn't answer himself. It was at this point that Arno began bringing home more and more books on herbs, medicine, history, and even some arcane texts to answer his questions. He loved this dynamic with his son, as he got to learn too, and it allowed for much intellectual back-and-forth in their conversations, always leading to new questions whose answers needed to be sought.
-
-This carried on for years. Until Renald was 15, and Arno fell ill with the Creeping Pox. Not wanting to get his son sick, he insisted that, though he couldn't keep Nadine away from tending to him, Renald should stay away so as not to become sick. Renald doesn't know that he was kept from Arno at his own request. Nadine knew that would make it hurt more, so she accepted the blame for that one, citing her knowledge of medicine as her reason.
+# Questions
+How old are you?
+Where are you originally from?

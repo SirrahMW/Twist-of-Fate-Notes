@@ -261,25 +261,6 @@ completion: in-progress
   line-height: 2rem;
   ">
 
-<!-- QUOTE BOX -->
-  <div style="
-    position: relative;
-    width: 12rem;
-    max-width: 20rem;
-    top: -1.2rem;
-    left: -2.5rem;
-    background: var(--color-background-secondary);
-    padding: 0.5rem 1rem;
-    z-index: 10;
-    font-size: 1rem;
-    color: var(--color-text-secondary);
-    text-align: center;
-  ">
-  "What?"
-  <br>
-  - Renald
-</div>
-  
 <!-- DECORATION 5 BODY -->
 <div style="
     text-align: center;
@@ -304,7 +285,7 @@ completion: in-progress
   text-align: center;
   font-weight: bold;
   ">
-  <span style="font-size: 2rem; vertical-align: middle;">⟞</span><span style="vertical-align: middle;">[TIME PERIOD]</span><span style=" font-size: 2rem; vertical-align: middle; font-weight: normal;">🝰</span><span style=" vertical-align: middle;">[TIME PERIOD]</span><span style="font-size :2rem; vertical-align: middle;">⟝</span>
+  <span style="font-size: 2rem; vertical-align: middle;">⟞</span><span style="vertical-align: middle;">[Birth]</span><span style=" font-size: 2rem; vertical-align: middle; font-weight: normal;">🝰</span><span style=" vertical-align: middle;">[Still kicking]</span><span style="font-size :2rem; vertical-align: middle;">⟝</span>
 </div>
 
 
@@ -689,12 +670,12 @@ completion: in-progress
     letter-spacing: 0.15rem;
     color: var(--color-text-heading);
   ">
-    Arno
+    [[Arno]]
   </span>
   <span style="
     float: right;
   ">
-    [Entry]
+    Father
   </span>
 </div>
 <!-- CHILD ENTRY -->
@@ -707,12 +688,12 @@ completion: in-progress
     letter-spacing: 0.15rem;
     color: var(--color-text-heading);
   ">
-    [Character]
+   [[Nadine]]
   </span>
   <span style="
     float: right;
   ">
-    [Entry]
+    Mother
   </span>
 </div>
   <!-- CHILD ENTRY -->
@@ -1128,316 +1109,6 @@ Renald's best friends growing up were a wild-haired human boy named Lucas and a 
 
 </div>
 
-<br>
-
-<!-- DADDY GRID -->
-<div style="
-  margin: 0rem 1rem;
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  gap: 0.5rem 1rem;
-"> 
-  <!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    Archetype
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-
-</div>
-
-
-<br>
-<hr>
-
-<!-- DECORATION 5 BODY -->
-<div style="
-    text-align: center;
-    color: var(--color-text-heading);
-    font-size: 2rem;
-    font-weight: bold;
-    margin-top: 2rem;
-  ">
-  <span style="font-size: 2rem; vertical-align: middle;"> ⟞ </span> 
-  <span style="font-weight: normal; vertical-align: middle;"> 
-    🜔
-  </span> 
-  <span style="font-size :2rem; vertical-align: middle;"> ⟝ </span>
-</div>
-
-<!-- MD HEADER INLINE -->
-### <p style="font-size: 1rem;letter-spacing: 0.15rem;font-weight: bold;color: var(--color-text-heading);">Body</p>
-<!-- FAMILY EXAMPLE -->
-<!-- DADDY GRID -->
-<div style="
-  margin: 1rem 0rem;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 0.5rem 1rem;
-"> 
-  <!-- MOMMY COLUMN -->
-<div style="
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-"> 
-  <!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    Physique
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-<!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    Weapon
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-</div>
-<!-- MOMMY COLUMN -->
-<div style="
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-"> 
-  <!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    Skill
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-<!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    Health
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-</div>
-</div>
-
-<!-- DADDY GRID -->
-<div style="
-  margin: 0rem 0rem;
-  margin-top: -0.5rem;
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  gap: 0.5rem 1rem;
-"> 
-  <!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    Injury
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-  <!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    Scar
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-  <!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    Technique
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-  <!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    Disease
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-     <!-- CHILD ENTRY -->
-<div style="
-  border: 1px solid var(--color-border-primary);
-  padding: 0.25rem 0.5rem;
-  font-size: 1rem;
-">
-  <span style="
-    letter-spacing: 0.15rem;
-    color: var(--color-text-heading);
-  ">
-    [Body Element]
-  </span>
-  <span style="
-    float: right;
-  ">
-    [Entry]
-  </span>
-</div>
-</div>
-</div>
-
-<!-- MD SUBHEADER INLINE -->
-<!-- has to be a 4th header to remove inborn hr -->
-#### <p style="font-size: 1rem;letter-spacing: 0.15rem; font-weight: bold; border-left: 1px solid var(--color-border-primary); padding: 0 1rem; color: var(--color-text-primary); margin-top: 0rem;">[Body Element]</p>
-<!-- MD CONTENT BELOW SUBHEADER -->
-<div style="
-  font-size: 1rem;
-  text-align: justify;
-  text-indent: 0rem;
-  margin: 1rem 0rem;
-  margin-top: -1.33rem; 
-  border: 0px solid var(--color-border-primary);
-  padding: 0rem;
-  line-height: 1.5rem;
-  ">
-  <p style="
-      border-left: 1px solid var(--color-border-primary);
-      padding: 0 1rem;
-    ">
-    [Content written here, content written here, content written here, content written here, content written here.]
-  </p>
-</div>
-
-<!-- MD SUBHEADER INLINE -->
-<!-- has to be a 4th header to remove inborn hr -->
-#### <p style="font-size: 1rem;letter-spacing: 0.15rem; font-weight: bold; border-left: 1px solid var(--color-border-primary); padding: 0 1rem; color: var(--color-text-primary); margin-top: 0rem;">[Body Element]</p>
-<!-- MD CONTENT BELOW SUBHEADER -->
-<div style="
-  font-size: 1rem;
-  text-align: justify;
-  text-indent: 0rem;
-  margin: 1rem 0rem;
-  margin-top: -1.33rem; 
-  border: 0px solid var(--color-border-primary);
-  padding: 0rem;
-  line-height: 1.5rem;
-  ">
-  <p style="
-      border-left: 1px solid var(--color-border-primary);
-      padding: 0 1rem;
-    ">
-    [Content written here, content written here, content written here, content written here, content written here.]
-  </p>
-</div>
-
-<br>
-<hr>
-
-<!-- DECORATION 4 MIND -->
-<div style="
-    text-align: center;
-    color: var(--color-text-heading);
-    font-size: 2rem;
-    font-weight: bold;
-    margin-top: 2rem;
-  ">
-  <span style="font-size: 2rem; vertical-align: middle;"> ⟞ </span> 
-  <span style="font-weight: normal; vertical-align: middle;"> 
-    ☿
-  </span> 
-  <span style="font-size :2rem; vertical-align: middle;"> ⟝ </span>
-</div>
-
-<!-- MD SUBHEADER INLINE -->
-<!-- has to be a 4th header to remove inborn hr -->
-#### <p style="font-size: 1rem;letter-spacing: 0.15rem; font-weight: bold; border-left: 1px solid var(--color-border-primary); padding: 0 1rem; color: var(--color-text-primary); mar... (2 KB left)
+<iframe src="https://embed.tidal.com/playlists/51b37bd9-0a7e-49a7-86cb-ad9ba1eed2c1" width="500" height="275" allow="encrypted-media fullscreen clipboard-write https://embed.tidal.com web-share" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox" style="color-scheme: light dark" title="TIDAL Embed Player">
+  
+</iframe>
