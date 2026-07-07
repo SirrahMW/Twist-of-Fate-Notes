@@ -195,7 +195,7 @@ completion: in-progress
 # Biography
 Arno was born and raised in the Colina. Though, from a young age he never wanted to stay in the Colina. He desired to learn herbology and become an Apothecary, making enough money to travel and trade. He thought that there would be a lot to be learned elsewhere outside the Colina, so it is not surprise that he frequented the Swamp to the east. 
 
-That is, until he met a young woman on his way to the Swamp. Her name was Nadine, and she practically swept him off his feet. Her intelligence was only matched by her beauty and he doubled his efforts to establish himself as a reknowned Apothecary to provide for her. 
+That is, until he met a young woman on his way to the Swamp. Her name was Nadine, and she practically swept him off his feet. Her smile was like the warmth of the sun while morning dew still rests on the ground. She was also incredibly smart, her intelligence only matched by her beauty. He doubled his efforts to establish himself as a reknowned Apothecary to provide for her. 
 
 It was only after she gave birth to a baby boy, who they named [[Renald]], that he decided to forget about his dreams and take up work in the mines to pay for their food and shelter. Early on, the pay wasn't good, but he was able to work his way through lower paying mines all the way up to one of the "better" ones. Though higher pay in the mines meant higher risk. 
 
